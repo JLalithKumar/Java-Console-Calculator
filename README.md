@@ -1,1 +1,1 @@
-# Java-Console-Calculator
+Java Console Calculator is a simple, interactive, and user-friendly console application designed to perform basic arithmetic operations efficiently. With a clean menu-driven interface, it allows users to quickly perform addition, subtraction, multiplication, and division, while handling division by zero gracefully. Java Console Calculator makes learning, testing, and executing calculations straightforward, providing an engaging and practical experience for both beginners and advanced users.
