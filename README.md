@@ -5,10 +5,6 @@ A simple **Command-Line Interface (CLI) based calculator** to perform basic arit
 ## Objective
 To build a Java program that allows users to **add, subtract, multiply, and divide** numbers using a structured approach.
 
-## Tools Used
-- **Java** (Programming Language)  
-- **VS Code / IntelliJ Community Edition** (IDE)
-
 ## Features
 - **Addition** – Adds two numbers.  
 - **Subtraction** – Subtracts the second number from the first.  
